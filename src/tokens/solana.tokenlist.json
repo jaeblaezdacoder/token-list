@@ -62048,7 +62048,10 @@
       "symbol": "JBLZ",
       "name": "Dacoder Coin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/jaeblaezdacoder/tyro-crypto/main/CSharp.png"
+      "logoURI": "https://raw.githubusercontent.com/jaeblaezdacoder/tyro-crypto/main/CSharp.png",
+      "tags":[
+        "social-token"
+      ]
     }
   ],
   "version": {
